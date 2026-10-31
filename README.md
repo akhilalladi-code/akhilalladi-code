@@ -1,7 +1,6 @@
 ![Akhil Alladi — Senior Graphic Designer](./assets/profile-banner.svg)
 
 <p align="center">
-  <a href="https://insidetesting.page.gd/">Portfolio</a> ·
   <a href="https://www.linkedin.com/in/akhil-alladi/">LinkedIn</a> ·
   <a href="https://github.com/akhilalladi-code">GitHub</a>
 </p>
@@ -31,19 +30,16 @@ My professional focus is design. AI tools, web development, and automation are c
 
 **Complementary interests:** Generative AI for creative exploration · Web technologies · Workflow automation
 
-## Selected work
+## Professional profile
 
-Explore my design work, case studies, and professional background:
-
-- **Portfolio:** [insidetesting.page.gd](https://insidetesting.page.gd/)
-- **LinkedIn:** [linkedin.com/in/akhil-alladi](https://www.linkedin.com/in/akhil-alladi/)
-- **Design and creative projects:** [Browse my GitHub repositories](https://github.com/akhilalladi-code?tab=repositories)
+- **LinkedIn:** [Akhil Alladi](https://www.linkedin.com/in/akhil-alladi/)
+- **GitHub:** [@akhilalladi-code](https://github.com/akhilalladi-code)
 
 ## Beyond design
 
 I enjoy experimenting with AI-assisted workflows, frontend development, and automation. These personal explorations help me understand new tools and bring fresh possibilities into my creative process; they are not my primary professional role.
 
-A few experiments:
+A few personal experiments:
 
 - [Claude Code learning handbook](https://github.com/akhilalladi-code/claude-code-at-zero-cost)
 - [Web portfolio experiment](https://github.com/akhilalladi-code/akhil-alladi-netflix-portfolio)
@@ -52,7 +48,6 @@ A few experiments:
 
 ## Let's connect
 
-- **Portfolio:** [insidetesting.page.gd](https://insidetesting.page.gd/)
 - **LinkedIn:** [Akhil Alladi](https://www.linkedin.com/in/akhil-alladi/)
 - **GitHub:** [@akhilalladi-code](https://github.com/akhilalladi-code)
 
