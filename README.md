@@ -52,9 +52,11 @@ I'm exploring AI-powered development workflows, building useful web applications
 
 ### 📊 GitHub Overview
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=akhilalladi-code&show_icons=true&hide_border=true&theme=transparent)
+- [View my contribution activity](https://github.com/akhilalladi-code?tab=overview)
+- [Explore my repositories](https://github.com/akhilalladi-code?tab=repositories)
+- [See my contribution graph](https://github.com/akhilalladi-code)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akhilalladi-code&layout=compact&hide_border=true&theme=transparent)
+*GitHub activity and language statistics are available directly on my GitHub profile.*
 
 ---
 
