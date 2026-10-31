@@ -1,80 +1,75 @@
 # Hi, I'm Akhil Alladi 👋
 
-### AI & Automation Developer | Frontend Developer | Creative Technologist
+### Senior Graphic Designer | Brand Identity | Visual Communication
 
-I enjoy building practical digital products by combining **Artificial Intelligence, automation, and modern web technologies**.
+I'm a graphic designer focused on creating meaningful visual identities and effective communication for brands. My work spans brand identity, marketing campaigns, social media creatives, advertising materials, presentations, and digital design.
 
-I'm exploring AI-powered development workflows, building useful web applications, experimenting with automation tools, and documenting what I learn along the way.
+I enjoy turning ideas and business goals into clear, distinctive visuals — from developing a brand's visual language to creating the everyday creative assets that keep it consistent.
 
-- 🔭 Currently working on AI-powered tools, web projects, and developer resources.
-- 🤖 Exploring AI coding agents, LLM workflows, and intelligent automation.
-- 🌐 Interested in frontend development and modern web experiences.
-- ⚙️ Experimenting with n8n, Docker, Firebase, and GitHub Actions.
-- 📚 Creating technical documentation and practical learning resources.
-- 🎯 Focused on continuous learning, building, and contributing to open source.
-
----
-
-### 🛠️ Technologies & Tools
-
-**Languages & Web Development**
-
-- HTML5, CSS3, JavaScript, TypeScript
-- React, Vite
-- WordPress, Elementor
-
-**AI & Automation**
-
-- ChatGPT, Claude, Google Gemini
-- Claude Code
-- n8n
-- AI-assisted development workflows
-
-**Tools & Platforms**
-
-- Git & GitHub
-- Docker
-- Firebase
-- GitHub Actions
-- Adobe Creative Suite
+- 🎨 **Core profession:** Graphic Design and Visual Communication
+- 🧩 **Specialties:** Brand Identity, Logo Design, Marketing Creatives, Social Media Design, Campaign Visuals
+- 🏢 **Industry experience:** Corporate branding and solar-sector marketing communication
+- 🛠️ **Creative tools:** Adobe Photoshop, Adobe Illustrator, Canva, and other design tools
+- ✨ **Creative approach:** Strong visual concepts, consistency, typography, layout, and attention to detail
+- 🤖 **Additional interests:** AI tools, web development, and automation as complementary skills and personal experiments
 
 ---
 
-### 🚀 Featured Projects
+### 🎯 Design Expertise
 
-| Project | Description |
-|---|---|
-| [Claude Code at Zero Cost](https://github.com/akhilalladi-code/claude-code-at-zero-cost) | A practical handbook and resource for exploring Claude Code and AI-assisted development. |
-| [Personal Portfolio](https://github.com/akhilalladi-code/akhil-alladi-portfolio) | My personal portfolio and creative work. |
-| [Netflix Portfolio](https://github.com/akhilalladi-code/akhil-alladi-netflix-portfolio) | A Netflix-inspired portfolio website concept. |
-
----
-
-### 📊 GitHub Overview
-
-- [View my contribution activity](https://github.com/akhilalladi-code?tab=overview)
-- [Explore my repositories](https://github.com/akhilalladi-code?tab=repositories)
-- [See my contribution graph](https://github.com/akhilalladi-code)
-
-*GitHub activity and language statistics are available directly on my GitHub profile.*
+- Brand identity development and visual systems
+- Logo design and brand applications
+- Social media campaigns and promotional creatives
+- Posters, brochures, catalogues, and marketing collateral
+- Corporate communication and event creatives
+- Digital design and creative direction
 
 ---
 
-### 🌱 My Current Goals
+### 🧰 Creative Toolkit
 
-- Build useful AI-powered applications.
-- Explore AI agents and workflow automation.
-- Contribute to open-source projects.
-- Improve my software development skills.
-- Create tools that solve real-world problems.
+**Primary design tools**
+
+- Adobe Photoshop
+- Adobe Illustrator
+- Canva
+- Adobe Creative Cloud
+
+**Additional tools and interests**
+
+- Generative AI tools for creative exploration
+- Web technologies and frontend experiments
+- Workflow automation and AI-assisted productivity
+
+---
+
+### 🚀 Selected Work & Projects
+
+My professional focus is graphic design, branding, and visual communication. Explore my portfolio and creative projects:
+
+- 🌐 [Portfolio Website](https://insidetesting.page.gd/)
+- 💼 [LinkedIn Profile](https://www.linkedin.com/in/akhil-alladi/)
+- 🐙 [GitHub Repositories](https://github.com/akhilalladi-code?tab=repositories)
+
+I also experiment with AI-assisted development, automation, and web projects in my personal time. These are interests alongside my primary design profession.
+
+---
+
+### 🌱 What I'm Exploring
+
+- Building stronger and more memorable brand identities
+- Improving creative systems and visual storytelling
+- Exploring AI-assisted design workflows
+- Experimenting with web development and automation
 
 ---
 
 ### 🤝 Let's Connect
 
 - 💼 LinkedIn: [Akhil Alladi](https://www.linkedin.com/in/akhil-alladi/)
+- 🌐 Portfolio: [insidetesting.page.gd](https://insidetesting.page.gd/)
 - 🐙 GitHub: [@akhilalladi-code](https://github.com/akhilalladi-code)
 
 ---
 
-*Building, experimenting, learning, and sharing — one project at a time.* 🚀
+*Designing with purpose. Communicating through visuals. Always learning.* 🎨
