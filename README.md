@@ -2,7 +2,9 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/akhil-alladi/">LinkedIn</a> ·
-  <a href="https://github.com/akhilalladi-code">GitHub</a>
+  <a href="https://www.behance.net/akhil_alladi">Behance</a> ·
+  <a href="https://github.com/akhilalladi-code">GitHub</a> ·
+  <a href="https://akhilalladi-code.github.io/akhil-alladi-portfolio/">Portfolio</a>
 </p>
 
 # Hi, I'm Akhil Alladi 👋
@@ -30,26 +32,29 @@ My professional focus is design. AI tools, web development, and automation are c
 
 **Complementary interests:** Generative AI for creative exploration · Web technologies · Workflow automation
 
+## Featured work and projects
+
+- [Primary graphic design portfolio](https://akhilalladi-code.github.io/akhil-alladi-portfolio/)
+- [Netflix-inspired creative portfolio](https://akhilalladi-code.github.io/akhil-alladi-netflix-portfolio/)
+- [Graphic design project archive](https://akhilalladi-code.github.io/graphic-design-showcase/)
+- [Claude Code learning handbook](https://akhilalladi-code.github.io/claude-code-at-zero-cost/)
+
 ## Professional profile
 
 - **LinkedIn:** [Akhil Alladi](https://www.linkedin.com/in/akhil-alladi/)
+- **Behance:** [Akhil Alladi](https://www.behance.net/akhil_alladi)
 - **GitHub:** [@akhilalladi-code](https://github.com/akhilalladi-code)
 
 ## Beyond design
 
 I enjoy experimenting with AI-assisted workflows, frontend development, and automation. These personal explorations help me understand new tools and bring fresh possibilities into my creative process; they are not my primary professional role.
 
-A few personal experiments:
-
-- [Claude Code learning handbook](https://github.com/akhilalladi-code/claude-code-at-zero-cost)
-- [Web portfolio experiment](https://github.com/akhilalladi-code/akhil-alladi-netflix-portfolio)
-
 ---
 
 ## Let's connect
 
 - **LinkedIn:** [Akhil Alladi](https://www.linkedin.com/in/akhil-alladi/)
-- **GitHub:** [@akhilalladi-code](https://github.com/akhilalladi-code)
+- **Email:** [akhilalladi@gmail.com](mailto:akhilalladi@gmail.com)
 
 ---
 
