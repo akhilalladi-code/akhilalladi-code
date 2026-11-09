@@ -1,4 +1,8 @@
-![Akhil Alladi — Senior Graphic Designer](./assets/profile-banner.svg)
+![Akhil Alladi — Diwali 2026](./assets/profile-banner.svg)
+
+<p align="center">
+  <a href="https://akhilalladi-code.github.io/diwali-universe/"><strong>🪔 ENTER MY DIWALI UNIVERSE 2026 · INTERACTIVE FIREWORKS & DIYAS ↗</strong></a>
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/akhil-alladi/">LinkedIn</a> ·
@@ -16,6 +20,12 @@ I create thoughtful visual systems and communication materials that help brands 
 My professional focus is design. AI tools, web development, and automation are complementary interests I explore through personal projects.
 
 ---
+
+## 🪔 Diwali Universe 2026
+
+A small celebration built with code: interactive Canvas fireworks, glowing diyas, optional sound and shareable festive greetings.
+
+**[Launch the Diwali Universe](https://akhilalladi-code.github.io/diwali-universe/)** · [Celebrate](https://akhilalladi-code.github.io/diwali-universe/celebrate.html) · [Create a greeting](https://akhilalladi-code.github.io/diwali-universe/wishes.html)
 
 ## Design practice
 
