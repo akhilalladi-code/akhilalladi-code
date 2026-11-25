@@ -1,80 +1,113 @@
-<!-- PROFILE README · AKHIL ALLADI -->
+<p align="center">
+  <img src="./assets/profile-banner.svg" alt="Akhil Alladi — Creative Technologist" width="100%" />
+</p>
 
-<h1 align="center">Hi, I'm Akhil Alladi 👋</h1>
+<h1 align="center">Creative Technologist</h1>
 
-<h3 align="center">Graphic Designer · Brand Identity · Visual Communication</h3>
+<h3 align="center">Graphic Designer | Brand Identity | AI &amp; Web Development</h3>
 
 <p align="center">
-  I build meaningful brand experiences through design, and explore how AI and technology can make creative work smarter.
+  I bring together visual design, brand thinking and technology to create meaningful identities, useful digital experiences and thoughtful creative work.
 </p>
 
 <p align="center">
+  <a href="https://github.com/akhilalladi-code">GitHub</a> ·
   <a href="https://www.linkedin.com/in/akhil-alladi/">LinkedIn</a> ·
   <a href="https://www.behance.net/akhil_alladi">Behance</a> ·
   <a href="https://akhilalladi-code.github.io/akhil-alladi-portfolio/">Portfolio</a> ·
-  <a href="mailto:akhilalladi@gmail.com">Email</a>
+  <a href="mailto:akhilalladi@gmail.com">Email</a> ·
+  <a href="https://youtube.com/@akhilalladi">YouTube</a>
 </p>
 
 ---
 
 ## About me
 
-I'm a Hyderabad-based graphic designer focused on creating clear, consistent, and memorable visual communication.
+I'm a Hyderabad-based graphic designer working across brand identity, visual communication and digital experiences. I enjoy turning ideas into clear visual systems — from the first concept and creative direction to polished campaign assets and practical design applications.
 
-My work spans brand identity, logo design, marketing campaigns, social media creatives, brochures, posters, presentations, and corporate communication. I enjoy taking a visual idea from its first concept through to a polished, practical design system.
+Alongside design, I explore web development, generative AI and automation. I’m interested in the space where creative thinking and technology meet: building tools, improving workflows and finding more useful ways to communicate ideas.
 
-Alongside design, I experiment with generative AI, web technologies, and workflow automation to explore new ways of creating and building.
-
-- 🎨 **Design focus:** Brand identity, visual systems, campaign design, and digital content
-- ☀️ **Industry experience:** Solar and electrical-sector branding and communications
-- 🧠 **Creative technology:** AI-assisted design, web experiments, and automation
-- 📍 **Based in:** Hyderabad, India
+- **Design:** Brand identity, visual systems, campaign design and digital content
+- **Creative technology:** Web projects, AI-assisted creative workflows and practical experiments
+- **Industry experience:** Solar and electrical-sector branding and communication
+- **Location:** Hyderabad, India
 
 ## What I do
 
-| Brand & identity | Marketing & communication |
-|---|---|
-| Logo design and visual identity | Campaign concepts and creatives |
-| Brand systems and applications | Social media and digital advertising |
-| Typography, colour, and layout | Brochures, posters, and presentations |
-| Consistent visual language | Corporate and event communication |
+| Brand & visual design | Creative technology |
+| --- | --- |
+| Brand identity and logo design | Web experiences and small digital tools |
+| Typography, colour and layout systems | AI-assisted creative exploration |
+| Marketing campaigns and social media | Workflow and process experimentation |
+| Brochures, posters and corporate communication | Design-focused product thinking |
 
-## Tools I work with
+## Featured projects
 
-<p>
-  <strong>Design</strong><br/>
-  Adobe Photoshop · Adobe Illustrator · Canva · Adobe Creative Cloud
+### [Akhil Alladi — Design Portfolio](https://akhilalladi-code.github.io/akhil-alladi-portfolio/)
+
+My primary professional portfolio: an editorial-style showcase of design work, project case studies, services, experience and contact information.
+
+**Built with:** Next.js 15 · React 19 · TypeScript · Tailwind CSS v4 · Framer Motion
+
+[View portfolio ↗](https://akhilalladi-code.github.io/akhil-alladi-portfolio/) · [View source ↗](https://github.com/akhilalladi-code/akhil-alladi-portfolio)
+
+### [Graphic Design Showcase](https://akhilalladi-code.github.io/graphic-design-showcase/)
+
+A curated archive of brand communication, event campaigns, social media creatives, corporate collateral and broadcast graphics. It also includes Framecheck, a browser-based tool for previewing social creative dimensions, crops and safe areas.
+
+**Built with:** HTML · CSS · JavaScript
+
+[Explore showcase ↗](https://akhilalladi-code.github.io/graphic-design-showcase/) · [View source ↗](https://github.com/akhilalladi-code/graphic-design-showcase)
+
+## Tools & technologies
+
+**Design**
+
+Adobe Photoshop · Adobe Illustrator · Canva
+
+**Web & development**
+
+HTML · CSS · JavaScript · React · Next.js · TypeScript · Tailwind CSS
+
+**Exploration**
+
+Generative AI · AI-assisted creative workflows · Workflow automation
+
+## GitHub overview
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=akhilalladi-code&amp;show_icons=true&amp;hide_border=true&amp;include_all_commits=true&amp;rank_icon=github&amp;bg_color=00000000&amp;title_color=8B5CF6&amp;icon_color=8B5CF6" alt="Akhil's GitHub statistics" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akhilalladi-code&amp;layout=compact&amp;hide_border=true&amp;bg_color=00000000&amp;title_color=8B5CF6" alt="Most used programming languages" height="165" />
 </p>
-<p>
-  <strong>Exploration</strong><br/>
-  Generative AI tools · Web technologies · Workflow automation
+
+## Contribution activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=akhilalladi-code&amp;bg_color=00000000&amp;color=8B5CF6&amp;line=8B5CF6&amp;point=6D28D9&amp;area=true&amp;hide_border=true" alt="GitHub contribution activity graph" width="100%" />
 </p>
 
-## Selected projects
+## Certifications & learning
 
-A few projects from my design and creative-technology practice:
-
-- **[Design portfolio](https://akhilalladi-code.github.io/akhil-alladi-portfolio/)** — Selected graphic design and branding work
-- **[Graphic Design Showcase](https://akhilalladi-code.github.io/graphic-design-showcase/)** — A collection of visual design explorations
-- **[Type Scale Studio](https://akhilalladi-code.github.io/type-scale-studio/)** — A practical typography scale tool
-- **[Telugu Bhakti](https://akhilalladi-code.github.io/telugu-bhakti/)** — A Telugu devotional content project
-- **[Netflix-inspired portfolio](https://akhilalladi-code.github.io/akhil-alladi-netflix-portfolio/)** — An experimental portfolio concept
-
-## Currently exploring
-
-- AI-assisted creative workflows and practical design applications
-- Building useful web tools and small digital products
-- Better ways to connect visual design, technology, and automation
+- **Certified Generative AI Manager**
+- **ChatGPT Master: Complete OpenAI ChatGPT Course** — Udemy
+- **Essential Skills in Adobe Photoshop 2025 Professional Certificate** — LinkedIn Learning
+- **AI Tools Workshop** — Be10x
 
 ## Let's connect
 
-I'm always happy to connect with designers, creative teams, and people building interesting things.
+I'm always glad to connect with designers, creative teams, developers and people exploring thoughtful ways to use technology.
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/akhil-alladi/"><strong>LinkedIn</strong></a> ·
-  <a href="https://www.behance.net/akhil_alladi"><strong>Behance</strong></a> ·
-  <a href="https://github.com/akhilalladi-code"><strong>GitHub</strong></a> ·
-  <a href="mailto:akhilalladi@gmail.com"><strong>Email</strong></a>
+  <a href="https://github.com/akhilalladi-code">GitHub</a> ·
+  <a href="https://www.linkedin.com/in/akhil-alladi/">LinkedIn</a> ·
+  <a href="https://www.behance.net/akhil_alladi">Behance</a> ·
+  <a href="https://akhilalladi-code.github.io/akhil-alladi-portfolio/">Portfolio</a> ·
+  <a href="mailto:akhilalladi@gmail.com">Email</a> ·
+  <a href="https://youtube.com/@akhilalladi">YouTube</a>
 </p>
 
-<p align="center"><em>Design with purpose. Build with curiosity.</em> ✨</p>
+<p align="center"><em>Design with purpose. Build with curiosity.</em></p>
+
+---
+
+<sub>GitHub statistics and contribution visualizations are provided by external services and may occasionally be unavailable or rate-limited.</sub>
