@@ -15,6 +15,7 @@
   <a href="https://www.linkedin.com/in/akhil-alladi/">LinkedIn</a> ·
   <a href="https://www.behance.net/akhil_alladi">Behance</a> ·
   <a href="https://akhilalladi-code.github.io/akhil-alladi-portfolio/">Portfolio</a> ·
+  <a href="https://akhilalladi-code.github.io/akhil-alladi-portfolio/resume/">Resume</a> ·
   <a href="mailto:akhilalladi@gmail.com">Email</a> ·
   <a href="https://youtube.com/@akhilalladi">YouTube</a>
 </p>
@@ -34,14 +35,30 @@ Alongside design, I explore web development, generative AI and automation. I’m
 
 ## Professional experience
 
-### Graphic Designer — Indosol Solar Private Limited
+**Senior Graphic Designer — Indosol Solar Private Limited**  
+*April 2026 – Present*
 
-Working across brand identity, visual communication and marketing design in the solar industry.
+Working across corporate branding, visual identity development, marketing communication, social media creatives and corporate films.
 
-- Develop day-to-day creative assets, campaign graphics, promotional materials and digital content.
-- Contribute to brand identity and rebranding projects, translating brand direction into consistent visual applications.
-- Create communication materials for solar and electrical-sector initiatives, including corporate and event campaigns.
-- Work across concept development, layout, typography, image treatment and final production.
+**Graphic Designer — Indosol Solar Private Limited**  
+*November 2024 – March 2026*
+
+Created marketing graphics, contributed to rebranding, and designed social media creatives and corporate films aligned with brand guidelines.
+
+**Graphic Designer — Sakshi Media**  
+*February 2024 – October 2024*
+
+Created art and copy layouts for branding, collateral and large-format graphics; contributed to visual design concepts and developed motion graphics skills.
+
+**Freelance Motion Graphic Designer**  
+*August 2023 – January 2024*
+
+Designed political campaign advertisements, campaign logos, videos and promotional material, including video presentations.
+
+**Graphic Designer — BIG TV Telugu**  
+*March 2022 – August 2023*
+
+Created on-air graphics, show stings and graphical elements for programmes, live news, explainer shows and election campaigns.
 
 ## Selected experience & highlights
 
@@ -110,7 +127,7 @@ Generative AI · AI-assisted creative workflows · Workflow automation
 - **Essential Skills in Adobe Photoshop 2025 Professional Certificate** — LinkedIn Learning
 - **AI Tools Workshop** — Be10x
 
-*Credential verification links can be added when the public certificate URLs are available.*
+*The resume page also includes a print-friendly version that can be saved as a PDF. Public certificate verification URLs have not been added because none are currently available.*
 
 ## Let's connect
 
@@ -121,6 +138,7 @@ I'm always glad to connect with designers, creative teams, developers and people
   <a href="https://www.linkedin.com/in/akhil-alladi/">LinkedIn</a> ·
   <a href="https://www.behance.net/akhil_alladi">Behance</a> ·
   <a href="https://akhilalladi-code.github.io/akhil-alladi-portfolio/">Portfolio</a> ·
+  <a href="https://akhilalladi-code.github.io/akhil-alladi-portfolio/resume/">Resume</a> ·
   <a href="mailto:akhilalladi@gmail.com">Email</a> ·
   <a href="https://youtube.com/@akhilalladi">YouTube</a>
 </p>
