@@ -1,71 +1,80 @@
-![Akhil Alladi — Diwali 2026](./assets/profile-banner.svg)
+<!-- PROFILE README · AKHIL ALLADI -->
+
+<h1 align="center">Hi, I'm Akhil Alladi 👋</h1>
+
+<h3 align="center">Graphic Designer · Brand Identity · Visual Communication</h3>
 
 <p align="center">
-  <a href="https://akhilalladi-code.github.io/diwali-universe/"><strong>🪔 ENTER MY DIWALI UNIVERSE 2026 · INTERACTIVE FIREWORKS & DIYAS ↗</strong></a>
+  I build meaningful brand experiences through design, and explore how AI and technology can make creative work smarter.
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/akhil-alladi/">LinkedIn</a> ·
   <a href="https://www.behance.net/akhil_alladi">Behance</a> ·
-  <a href="https://github.com/akhilalladi-code">GitHub</a> ·
-  <a href="https://akhilalladi-code.github.io/akhil-alladi-portfolio/">Portfolio</a>
+  <a href="https://akhilalladi-code.github.io/akhil-alladi-portfolio/">Portfolio</a> ·
+  <a href="mailto:akhilalladi@gmail.com">Email</a>
 </p>
 
-# Hi, I'm Akhil Alladi 👋
-
-**Senior Graphic Designer focused on brand identity, visual communication, and marketing design.**
-
-I create thoughtful visual systems and communication materials that help brands present themselves with clarity and consistency. My work includes brand identity, logo design, corporate communication, marketing campaigns, social media creatives, brochures, posters, and digital design.
-
-My professional focus is design. AI tools, web development, and automation are complementary interests I explore through personal projects.
-
 ---
 
-## 🪔 Diwali Universe 2026
+## About me
 
-A small celebration built with code: interactive Canvas fireworks, glowing diyas, optional sound and shareable festive greetings.
+I'm a Hyderabad-based graphic designer focused on creating clear, consistent, and memorable visual communication.
 
-**[Launch the Diwali Universe](https://akhilalladi-code.github.io/diwali-universe/)** · [Celebrate](https://akhilalladi-code.github.io/diwali-universe/celebrate.html) · [Create a greeting](https://akhilalladi-code.github.io/diwali-universe/wishes.html)
+My work spans brand identity, logo design, marketing campaigns, social media creatives, brochures, posters, presentations, and corporate communication. I enjoy taking a visual idea from its first concept through to a polished, practical design system.
 
-## Design practice
+Alongside design, I experiment with generative AI, web technologies, and workflow automation to explore new ways of creating and building.
 
-| Brand & Identity | Marketing & Campaigns |
+- 🎨 **Design focus:** Brand identity, visual systems, campaign design, and digital content
+- ☀️ **Industry experience:** Solar and electrical-sector branding and communications
+- 🧠 **Creative technology:** AI-assisted design, web experiments, and automation
+- 📍 **Based in:** Hyderabad, India
+
+## What I do
+
+| Brand & identity | Marketing & communication |
 |---|---|
-| Logo design and visual identity systems | Campaign concepts and promotional creatives |
-| Brand guidelines and brand applications | Social media and digital advertising |
-| Typography, colour, and layout systems | Posters, brochures, and presentations |
-| Consistent visual communication | Corporate and event communication |
+| Logo design and visual identity | Campaign concepts and creatives |
+| Brand systems and applications | Social media and digital advertising |
+| Typography, colour, and layout | Brochures, posters, and presentations |
+| Consistent visual language | Corporate and event communication |
 
-## Creative toolkit
+## Tools I work with
 
-**Core tools:** Adobe Photoshop · Adobe Illustrator · Canva · Adobe Creative Cloud
+<p>
+  <strong>Design</strong><br/>
+  Adobe Photoshop · Adobe Illustrator · Canva · Adobe Creative Cloud
+</p>
+<p>
+  <strong>Exploration</strong><br/>
+  Generative AI tools · Web technologies · Workflow automation
+</p>
 
-**Complementary interests:** Generative AI for creative exploration · Web technologies · Workflow automation
+## Selected projects
 
-## Featured work and projects
+A few projects from my design and creative-technology practice:
 
-- [Primary graphic design portfolio](https://akhilalladi-code.github.io/akhil-alladi-portfolio/)
-- [Netflix-inspired creative portfolio](https://akhilalladi-code.github.io/akhil-alladi-netflix-portfolio/)
-- [Graphic design project archive](https://akhilalladi-code.github.io/graphic-design-showcase/)
-- [Claude Code learning handbook](https://akhilalladi-code.github.io/claude-code-at-zero-cost/)
+- **[Design portfolio](https://akhilalladi-code.github.io/akhil-alladi-portfolio/)** — Selected graphic design and branding work
+- **[Graphic Design Showcase](https://akhilalladi-code.github.io/graphic-design-showcase/)** — A collection of visual design explorations
+- **[Type Scale Studio](https://akhilalladi-code.github.io/type-scale-studio/)** — A practical typography scale tool
+- **[Telugu Bhakti](https://akhilalladi-code.github.io/telugu-bhakti/)** — A Telugu devotional content project
+- **[Netflix-inspired portfolio](https://akhilalladi-code.github.io/akhil-alladi-netflix-portfolio/)** — An experimental portfolio concept
 
-## Professional profile
+## Currently exploring
 
-- **LinkedIn:** [Akhil Alladi](https://www.linkedin.com/in/akhil-alladi/)
-- **Behance:** [Akhil Alladi](https://www.behance.net/akhil_alladi)
-- **GitHub:** [@akhilalladi-code](https://github.com/akhilalladi-code)
-
-## Beyond design
-
-I enjoy experimenting with AI-assisted workflows, frontend development, and automation. These personal explorations help me understand new tools and bring fresh possibilities into my creative process; they are not my primary professional role.
-
----
+- AI-assisted creative workflows and practical design applications
+- Building useful web tools and small digital products
+- Better ways to connect visual design, technology, and automation
 
 ## Let's connect
 
-- **LinkedIn:** [Akhil Alladi](https://www.linkedin.com/in/akhil-alladi/)
-- **Email:** [akhilalladi@gmail.com](mailto:akhilalladi@gmail.com)
+I'm always happy to connect with designers, creative teams, and people building interesting things.
 
----
+<p align="center">
+  <a href="https://www.linkedin.com/in/akhil-alladi/"><strong>LinkedIn</strong></a> ·
+  <a href="https://www.behance.net/akhil_alladi"><strong>Behance</strong></a> ·
+  <a href="https://github.com/akhilalladi-code"><strong>GitHub</strong></a> ·
+  <a href="mailto:akhilalladi@gmail.com"><strong>Email</strong></a>
+</p>
 
-*Designing with purpose. Building identities with clarity. Staying curious about what's next.* 🎨
+<p align="center"><em>Design with purpose. Build with curiosity.</em> ✨</p>
