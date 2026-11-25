@@ -32,6 +32,23 @@ Alongside design, I explore web development, generative AI and automation. I’m
 - **Industry experience:** Solar and electrical-sector branding and communication
 - **Location:** Hyderabad, India
 
+## Professional experience
+
+### Graphic Designer — Indosol Solar Private Limited
+
+Working across brand identity, visual communication and marketing design in the solar industry.
+
+- Develop day-to-day creative assets, campaign graphics, promotional materials and digital content.
+- Contribute to brand identity and rebranding projects, translating brand direction into consistent visual applications.
+- Create communication materials for solar and electrical-sector initiatives, including corporate and event campaigns.
+- Work across concept development, layout, typography, image treatment and final production.
+
+## Selected experience & highlights
+
+- Completed branding work for **two companies** and contributed to the rebranding of an established **30-year-old company**.
+- Created a range of marketing and communication assets, including social creatives, promotional graphics, thumbnails, logos and corporate collateral.
+- Developed a design-focused portfolio website and a separate showcase for selected graphic design work.
+
 ## What I do
 
 | Brand & visual design | Creative technology |
@@ -92,6 +109,8 @@ Generative AI · AI-assisted creative workflows · Workflow automation
 - **ChatGPT Master: Complete OpenAI ChatGPT Course** — Udemy
 - **Essential Skills in Adobe Photoshop 2025 Professional Certificate** — LinkedIn Learning
 - **AI Tools Workshop** — Be10x
+
+*Credential verification links can be added when the public certificate URLs are available.*
 
 ## Let's connect
 
